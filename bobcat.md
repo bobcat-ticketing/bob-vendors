@@ -37,5 +37,5 @@ Contact: Jakob Schlyter
 - Kalmar Länstrafik
 - Länstrafiken i Region Jönköpings Län
 - Länstrafiken i Region Kronoberg
-- Upplands Lokaltrafik AB
+- Region Uppsala
 - Västtrafik AB
