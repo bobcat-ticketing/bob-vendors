@@ -1,7 +1,7 @@
 # Bobcat
 
-Vendor: Kirei AB 
-Contact: Jakob Schlyter
+- Vendor: Kirei AB
+- Contact: Jakob Schlyter
 
 ## Implemented BoB APIs
 
