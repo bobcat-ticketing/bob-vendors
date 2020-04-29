@@ -13,6 +13,8 @@ Contact: Jakob Schlyter
 - Participant Metadata
 - Products
 - Ticketing
+- Token
+- Traveller
 - Validation
 
 ### Clients
@@ -23,6 +25,8 @@ Contact: Jakob Schlyter
 - Participant Metadata
 - Products
 - Ticketing
+- Token
+- Traveller
 - Validation
 
 ## Other Software
